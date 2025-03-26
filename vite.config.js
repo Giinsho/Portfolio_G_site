@@ -10,5 +10,5 @@ export default defineConfig({
     react(),
     svgr()
   ],
-  base: "/portfolio_G_site",
+  base: "/Portfolio_G_site",
 });
