@@ -1,7 +1,6 @@
 {
   "name": "portfolio_G_site",
   "homepage": "https://Giinsho.github.io/Portfolio_G_site/",
-  "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
