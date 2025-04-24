@@ -115,7 +115,7 @@ This project is configured to deploy to **GitHub Pages**. To deploy:
    ```
 
 The website will be available at:  
-[https://Giinsho.github.io/portfolio_G_site/](https://Giinsho.github.io/portfolio_G_site/)
+[https://Giinsho.github.io/portfolio_G_site/](https://Giinsho.github.io/Portfolio_G_site/)
 
 ---
 
